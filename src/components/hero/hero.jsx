@@ -8,9 +8,9 @@ const Hero = () => {
             <div className={styles.headingBody}>
                 <h1 className={styles.head}>100 Thousand Songs, ad-free</h1>
                 <h1 className={styles.head}>Over thousands podcast episodes</h1>
-                <div  className={styles.line}> <hr/></div>
+                <div  className={styles.line}> </div>
               
-                <div  className={styles.line2}> <hr/></div>
+                <div  className={styles.line2}> </div>
             </div>
                 <img className={styles.headphone} src={HeroImage} alt='headphone'/>
         </section>
